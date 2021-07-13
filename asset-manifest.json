@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/react_upload/static/css/main.9ef95be1.chunk.css",
-    "main.js": "/react_upload/static/js/main.d8598d52.chunk.js",
-    "main.js.map": "/react_upload/static/js/main.d8598d52.chunk.js.map",
+    "main.css": "/react_upload/static/css/main.85f27dc5.chunk.css",
+    "main.js": "/react_upload/static/js/main.9e43c24d.chunk.js",
+    "main.js.map": "/react_upload/static/js/main.9e43c24d.chunk.js.map",
     "runtime-main.js": "/react_upload/static/js/runtime-main.eeb49247.js",
     "runtime-main.js.map": "/react_upload/static/js/runtime-main.eeb49247.js.map",
     "static/js/2.6705689e.chunk.js": "/react_upload/static/js/2.6705689e.chunk.js",
     "static/js/2.6705689e.chunk.js.map": "/react_upload/static/js/2.6705689e.chunk.js.map",
     "index.html": "/react_upload/index.html",
-    "static/css/main.9ef95be1.chunk.css.map": "/react_upload/static/css/main.9ef95be1.chunk.css.map",
+    "static/css/main.85f27dc5.chunk.css.map": "/react_upload/static/css/main.85f27dc5.chunk.css.map",
     "static/js/2.6705689e.chunk.js.LICENSE.txt": "/react_upload/static/js/2.6705689e.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.eeb49247.js",
     "static/js/2.6705689e.chunk.js",
-    "static/css/main.9ef95be1.chunk.css",
-    "static/js/main.d8598d52.chunk.js"
+    "static/css/main.85f27dc5.chunk.css",
+    "static/js/main.9e43c24d.chunk.js"
   ]
 }
